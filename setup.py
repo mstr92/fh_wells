@@ -6,6 +6,7 @@ setup(
     description='Boilerplate code for a RESTful API based on Flask-RESTPlus',
     url='https://github.com/postrational/rest_api_demo',
     author='Michal Karzynski',
+    test='hallo' 
 
     classifiers=[
         'Development Status :: 5 - Production/Stable',
